@@ -11,7 +11,7 @@ The cross-scape plot is computed by stacking up a minimum local distance between
 
 ## Python Implementation Update
 
-The original version can be found [here](https://github.com/saebyulpark/cross_scape_plot/tree/master), and example usage along with the updated Python code can be accessed [here]([https://colab.research.google.com/drive/1KDqgw9BaOmQ_iGCJVHbI9e9OexynIdPj?usp=sharing](https://colab.research.google.com/drive/1KDqgw9BaOmQ_iGCJVHbI9e9OexynIdPj?usp=sharing)).
+The original version can be found [here](https://github.com/saebyulpark/cross_scape_plot/tree/master), and example usage along with the updated Python code can be accessed [here](https://colab.research.google.com/drive/1KDqgw9BaOmQ_iGCJVHbI9e9OexynIdPj?usp=sharing).
 
 
 #Note: In the transition from MATLAB to Python to enhance computational efficiency, modifications have been made to the original cross-scapeplot. The edit-distance cost has been standardized to 1, and the initial custom color map, which shifted from yellow to lime to black, has been substituted with a thoughtfully selected and visually appealing colormap (vividris) in Python.
